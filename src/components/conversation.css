@@ -1,0 +1,6 @@
+.chat-profile .chat-menu{
+   display: none;
+}
+.chat-profile:hover .chat-menu{
+   display: flex !important;
+}
